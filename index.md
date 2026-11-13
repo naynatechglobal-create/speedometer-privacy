@@ -20,8 +20,8 @@ If you have chosen in iOS Settings to share analytics with app developers, Apple
 **Your rights.** 
 Under UK and EU data protection law you can ask what data we hold about you and ask for it to be deleted. Because the app keeps no account and no server-side data about you, the only data we could hold is the anonymous subscription record described above. Email naynatechglobal@gmail.com with any request.
 
-**Children.** T
-he app is not directed at children under 13.
+**Children.** 
+The app is not directed at children under 13.
 
 **Changes.** 
 We will post any changes to this policy on this page.
