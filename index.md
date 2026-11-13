@@ -1,9 +1,9 @@
-# Privacy Policy for GPS Speedometer: HUD & Trips
+# Privacy Policy for Speedometer: GPS MPH & HUD
 
-Last updated: 3 November 2026
+Last updated: 13 November 2026
 
-**Who we are.**
-GPS Speedometer: HUD & Trips ("the app") is published by NaynaTech, Portsmouth, United Kingdom. Contact: naynatechglobal@gmail.com.
+**Who we are.** Speedometer: GPS MPH & HUD ("the app") is published by Zeynu Hamid. Contact: naynatechglobal@gmail.com.
+
 
 **Location.** 
 The app uses your iPhone's GPS to show your speed and to record trips you start. Location is used only while the speedometer screen or HUD is open, or while a trip you started is running. Your location, speed and trip routes are stored only on your iPhone. They are never sent to us or to anyone else. Deleting the app deletes them.
